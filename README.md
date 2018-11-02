@@ -10,14 +10,13 @@
   <b>组会讨论时间及地点</b>
   每周五下午2:30；地点另行通知<br> 
 
-<hr id="dash">
-<a name="schedule"></a>
+
 <h2>汇报安排</h2>
 <br><br>
 <div>
 <table id="bord" >
   <tbody><tr class="active">
-    <th width="10%">日期</th><th width="10%">时间</th width="40%"><th>汇报内容</th><th width="40%">相关资料</th>
+    <th width="10%">日期</th><th width="10%">时间</th><th width="40%">汇报内容</th><th width="40%">相关资料</th>
   </tr>
 
   <tr id="bord">
